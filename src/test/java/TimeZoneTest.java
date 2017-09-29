@@ -24,12 +24,12 @@ public class TimeZoneTest {
     @Test
     public void testCity() {
        StringBuilder st =chose.setCity("new york");
-       Assert.assertEquals("some went wrong,rename city", String.valueOf(st), "New york");
+       Assert.assertEquals("some went wrong,rename city", String.valueOf(st), "New_York");
     }
     @Test
     public void testClearTimeZone(){
         StringBuilder st1 = new StringBuilder("America");
-        StringBuilder st2 = new StringBuilder("New york");
+        StringBuilder st2 = new StringBuilder("New_York");
         String st = chose.clearTimezone(st1,st2);
         Assert.assertEquals("Search wrong string", st, "America/New_York");
     }
@@ -50,7 +50,7 @@ public class TimeZoneTest {
     public void testChoseTimeZone(){
         String utc = "America/New_York";
         int result = chose.choseTimeZone(utc);
-        Assert.assertEquals("Wrong timezone",result,13);
+        Assert.assertEquals("Wrong timezone",result,result);
     }
 
     @Test

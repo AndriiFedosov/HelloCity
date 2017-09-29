@@ -56,8 +56,6 @@ class ChoseTimeZone {
                 }
             }
         }
-
-
         StringBuilder st= new StringBuilder();
         if(!String.valueOf(city).equals("")){
             st.append(continent).append("/").append(city);

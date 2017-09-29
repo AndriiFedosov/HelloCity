@@ -26,3 +26,40 @@
 15:17:07,123  INFO main ChoseTimeZone:localRuEn:141 - Current language on computer Russia or Ukraine, create message hello on russian
 15:17:07,123  INFO main ChoseTimeZone:localRuEn:172 - Доброго дня,Asfadas!
 
+15:32:28,998  INFO main ChoseTimeZone:setCity:45 - Your city is:New_York
+15:32:39,632  INFO main ChoseTimeZone:setCity:45 - Your city is:New_York
+15:32:39,643  INFO main ChoseTimeZone:clearTimezone:68 - Clear timezone name:America/New york
+15:32:40,131  INFO main ChoseTimeZone:setContinent:19 - Your continent is:US
+15:32:40,132  INFO main ChoseTimeZone:choseTimeZone:123 - Chose Timezone for list:America/New_York
+15:32:40,158  INFO main ChoseTimeZone:equalsGMT:112 - Getting GTM:GMT-5
+15:32:40,162  INFO main ChoseTimeZone:equalsZone:98 - Current timezone is:America/New_York
+15:32:40,167  INFO main ChoseTimeZone:localRuEn:141 - Current language on computer Russia or Ukraine, create message hello on russian
+15:32:40,168  INFO main ChoseTimeZone:localRuEn:172 - Доброго дня,New York!
+
+15:34:01,455  INFO main ChoseTimeZone:setCity:45 - Your city is:New_York
+15:34:01,465  INFO main ChoseTimeZone:clearTimezone:68 - Clear timezone name:America/New york
+15:34:01,466  INFO main ChoseTimeZone:setContinent:19 - Your continent is:US
+15:34:01,469  INFO main ChoseTimeZone:choseTimeZone:123 - Chose Timezone for list:America/New_York
+15:34:01,480  INFO main ChoseTimeZone:equalsGMT:112 - Getting GTM:GMT-5
+15:34:01,496  INFO main ChoseTimeZone:equalsZone:98 - Current timezone is:America/New_York
+15:34:01,503  INFO main ChoseTimeZone:localRuEn:141 - Current language on computer Russia or Ukraine, create message hello on russian
+15:34:01,504  INFO main ChoseTimeZone:localRuEn:172 - Доброго дня,New York!
+
+15:35:37,742  INFO main ChoseTimeZone:setCity:45 - Your city is:New_York
+15:35:37,782  INFO main ChoseTimeZone:clearTimezone:66 - Clear timezone name:America/New_York
+15:35:37,784  INFO main ChoseTimeZone:setContinent:19 - Your continent is:US
+15:35:37,784  INFO main ChoseTimeZone:choseTimeZone:121 - Chose Timezone for list:America/New_York
+15:35:37,797  INFO main ChoseTimeZone:equalsGMT:110 - Getting GTM:GMT-5
+15:35:37,814  INFO main ChoseTimeZone:equalsZone:96 - Current timezone is:America/New_York
+15:35:37,825  INFO main ChoseTimeZone:localRuEn:139 - Current language on computer Russia or Ukraine, create message hello on russian
+15:35:37,826  INFO main ChoseTimeZone:localRuEn:170 - Доброго дня,New York!
+
+15:36:07,265  INFO main ChoseTimeZone:setCity:45 - Your city is:New_York
+15:36:07,296  INFO main ChoseTimeZone:clearTimezone:66 - Clear timezone name:America/New_York
+15:36:07,297  INFO main ChoseTimeZone:setContinent:19 - Your continent is:US
+15:36:07,298  INFO main ChoseTimeZone:choseTimeZone:121 - Chose Timezone for list:America/New_York
+15:36:07,319  INFO main ChoseTimeZone:equalsGMT:110 - Getting GTM:GMT-5
+15:36:07,340  INFO main ChoseTimeZone:equalsZone:96 - Current timezone is:America/New_York
+15:36:07,354  INFO main ChoseTimeZone:localRuEn:139 - Current language on computer Russia or Ukraine, create message hello on russian
+15:36:07,355  INFO main ChoseTimeZone:localRuEn:170 - Доброго дня,New York!
+
