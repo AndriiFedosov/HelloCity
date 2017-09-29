@@ -1,6 +1,7 @@
 
 import org.junit.Assert;
 
+import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
@@ -9,7 +10,11 @@ import java.util.logging.Logger;
 
 
 public class TimeZoneTest {
-    private ChoseTimeZone chose = new ChoseTimeZone();
+    private ChoseTimeZone chose;
+    @Before
+    public void setUp(){
+      chose = new ChoseTimeZone();
+    }
 
     @Test
     public void testContinent() throws Exception{

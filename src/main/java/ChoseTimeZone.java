@@ -138,11 +138,11 @@ class ChoseTimeZone {
 
         if((Locale.getDefault().getDisplayLanguage().equals("русский")||Locale.getDefault().getDisplayLanguage().equals("українська"))){
            daynight = new String[]{"Доброго дня", "Доброго дня", "Доброго вечера", "Доброй ночи"};
-            logger.info("Current language on computer Russia or Ukraine, create message hello on russian\n");
+            logger.info("Current language on computer Russia or Ukraine, create message hello on russian");
         }
         else{
             daynight =new String[] {"Good morning","Good day","Good evening","Good night"};
-            logger.info("Current language on computer is russian or ukrainian,crete message hello on english\n");
+            logger.info("Current language on computer is russian or ukrainian,crete message hello on english");
         }
         if(6<=result &&result<=9)
 
@@ -169,8 +169,8 @@ class ChoseTimeZone {
         {
             text = daynight[3] + "," + city + "!";
         }
-        logger.info(text);
-        logger.info("\n\n");
+        logger.info(text+"\n");
+
         return text;
     }
 }

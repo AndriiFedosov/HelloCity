@@ -1,0 +1,28 @@
+14:50:05,529  INFO main ChoseTimeZone:setContinent:19 - Your continent is:US
+14:50:08,372  INFO main ChoseTimeZone:setCity:45 - Your city is:Hawaii
+14:50:08,373  INFO main ChoseTimeZone:clearTimezone:68 - Clear timezone name:US/Hawaii
+14:50:08,383  INFO main ChoseTimeZone:equalsZone:98 - Current timezone is:US/Hawaii
+14:50:08,383  INFO main ChoseTimeZone:choseTimeZone:123 - Chose Timezone for list:US/Hawaii
+14:50:08,485  INFO main ChoseTimeZone:localRuEn:141 - Current language on computer Russia or Ukraine, create message hello on russian
+
+14:50:08,489  INFO main ChoseTimeZone:localRuEn:172 - Доброй ночи,Hawaii!
+14:50:08,489  INFO main ChoseTimeZone:localRuEn:173 - 
+
+
+14:51:46,533  INFO main ChoseTimeZone:setContinent:19 - Your continent is:America
+14:51:52,479  INFO main ChoseTimeZone:setCity:45 - Your city is:New_York
+14:51:52,480  INFO main ChoseTimeZone:clearTimezone:68 - Clear timezone name:America/New_York
+14:51:52,488  INFO main ChoseTimeZone:equalsZone:98 - Current timezone is:America/New_York
+14:51:52,488  INFO main ChoseTimeZone:choseTimeZone:123 - Chose Timezone for list:America/New_York
+14:51:52,496  INFO main ChoseTimeZone:localRuEn:141 - Current language on computer Russia or Ukraine, create message hello on russian
+14:51:52,501  INFO main ChoseTimeZone:localRuEn:172 - Доброго дня,New_York!
+
+15:16:58,680  INFO main ChoseTimeZone:setContinent:19 - Your continent is:Asdaf
+15:17:01,508  INFO main ChoseTimeZone:setCity:45 - Your city is:Asfadas
+15:17:01,508  INFO main ChoseTimeZone:clearTimezone:68 - Clear timezone name:Asdaf/Asfadas
+15:17:01,513  INFO main ChoseTimeZone:equalsZone:98 - Current timezone is:
+15:17:07,113  INFO main ChoseTimeZone:equalsGMT:107 - Getting GTM:GMT+5
+15:17:07,113  INFO main ChoseTimeZone:choseTimeZone:123 - Chose Timezone for list:GMT+5
+15:17:07,123  INFO main ChoseTimeZone:localRuEn:141 - Current language on computer Russia or Ukraine, create message hello on russian
+15:17:07,123  INFO main ChoseTimeZone:localRuEn:172 - Доброго дня,Asfadas!
+
